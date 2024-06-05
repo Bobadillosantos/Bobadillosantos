@@ -4,4 +4,6 @@
 - Estou no [Alura]
 - Gosto de JS
 
-  ![](https://tenor.com/pt-BR/view/heavenly-joy-jerkins-i-am-so-excited-yesss-meme-agt-americas-got-talent-gif-7428145738874997623
+![![image](https://github.com/Bobadillosantos/Bobadillosantos/assets/171802030/d771f242-87da-48fd-90a9-43327eb90f97)
+
+
